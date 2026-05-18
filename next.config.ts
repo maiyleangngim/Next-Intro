@@ -12,6 +12,10 @@ const nextConfig: NextConfig = {
       {
         protocol: "https",
         hostname: "cdn.britannica.com"
+      },
+      {
+        protocol: "https",
+        hostname: "i.pinimg.com"
       }
     ]
   }
