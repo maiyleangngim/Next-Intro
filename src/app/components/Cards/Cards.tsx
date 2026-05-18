@@ -37,7 +37,7 @@ export function Cards() {
         <Image
           alt="Bonnie image"
           height="96"
-          src="/images/people/profile-picture-3.jpg"
+          src="https://cdn.britannica.com/68/226968-050-C2FF98B9/Canadian-singer-Justin-Bieber-2021.jpg"
           width="96"
           className="mb-3 rounded-full shadow-lg"
         />

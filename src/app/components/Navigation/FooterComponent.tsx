@@ -8,9 +8,9 @@ export function FooterComponent() {
         <div className="w-full justify-between sm:flex sm:items-center sm:justify-between">
           <FooterBrand
             href="https://flowbite.com"
-            src="https://flowbite.com/docs/images/logo.svg"
+            src="/image.png"
             alt="Flowbite Logo"
-            name="Flowbite"
+            name="Designify"
           />
           <FooterLinkGroup>
             <FooterLink href="#">About</FooterLink>

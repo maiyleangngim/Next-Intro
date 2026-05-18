@@ -8,7 +8,7 @@ export function NavBarComponent() {
     <Navbar fluid rounded>
       <NavbarBrand href="https://flowbite-react.com">
         <Image src="/image.png" className="mr-3 h-6 sm:h-9" alt="Flowbite React Logo" width={100} height={100} />
-        <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Flowbite React</span>
+        <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Designify</span>
       </NavbarBrand>
       <div className="flex md:order-2">
         <Button>Get started</Button>
